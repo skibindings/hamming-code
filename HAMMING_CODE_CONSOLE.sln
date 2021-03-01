@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAMMING_CODE_CONSOLE", "HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE.csproj", "{6EB0E8D0-4E39-4C27-9F27-72EA1B30ACD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB0E8D0-4E39-4C27-9F27-72EA1B30ACD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB0E8D0-4E39-4C27-9F27-72EA1B30ACD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB0E8D0-4E39-4C27-9F27-72EA1B30ACD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB0E8D0-4E39-4C27-9F27-72EA1B30ACD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1638A3-1517-42A8-9EE8-7981DF6E7904}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\minea\source\repos\HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE\bin\Release\HAMMING_CODE_CONSOLE.exe.config
+C:\Users\minea\source\repos\HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE\bin\Release\HAMMING_CODE_CONSOLE.exe
+C:\Users\minea\source\repos\HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE\bin\Release\HAMMING_CODE_CONSOLE.pdb
+C:\Users\minea\source\repos\HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE\obj\Release\HAMMING_CODE_CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\minea\source\repos\HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE\obj\Release\HAMMING_CODE_CONSOLE.exe
+C:\Users\minea\source\repos\HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE\obj\Release\HAMMING_CODE_CONSOLE.pdb
+C:\Users\minea\source\repos\HAMMING_CODE_CONSOLE\HAMMING_CODE_CONSOLE\obj\Release\HAMMING_CODE_CONSOLE.csprojAssemblyReference.cache
